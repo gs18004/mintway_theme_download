@@ -1,0 +1,62 @@
+@font-face 
+{
+    font-family:"Gilroy_Light";
+    src: url(Light.otf);
+}
+
+body
+{
+    background:url("https://images.unsplash.com/photo-1509745651274-ddeb337c854a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2767&q=80");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:1600px 1200px;
+}
+*
+{
+    font-family:'Gilroy_Light';
+}
+#navbar_custom
+{
+    background-color:rgba(0,0,0, 0.7);
+    color:white;
+    border-radius:0px;
+    border-width:0px;
+}
+#navbar_logo
+{
+    color:white;
+    font-style:bold;
+}
+#home_introduce_jumbotron
+{
+    vertical-align: middle;
+    align-items:center;
+    height:700px;
+    text-align:center;
+    padding-top:20%;
+    padding-right:20px;
+    padding-left:20px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:rgba(0,0,0, 0.8);
+    border-width:0px;
+    border-radius:30px;
+    /* box-shadow: 3px 3px 5px grey; */
+    color:#ffffff;
+    font-size:30px;
+}
+#line_1
+{
+    margin-left:20%;
+    margin-right:20%;
+    background-color:white;
+    border-color:white;
+    border-width:3px;
+    border-radius:100px;
+}
+#button_download
+{
+    background-color:#267EFF;
+    border-width:0px;
+    border-radius:7px;
+}
