@@ -1,6 +1,6 @@
 function download()
 {
-    window.location.assign('MintWay.ktheme');
+    window.location.assign('NEW MintWay Light.ktheme');
 }
 
 function change_color_1()
